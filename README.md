@@ -6,7 +6,7 @@ An embedded systems project to tackle the real-world problem of the high computa
 </p>
 
 ## Hardware Features
-- MPU:  ARM M4F based MCU TM123GH6PM
+- ARM M4F based TM123GH6PM
 - Electronic components used:
     |   Components   |  Qty |
     | -------------- |:----:|
