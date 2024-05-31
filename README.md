@@ -29,7 +29,8 @@ An embedded systems project to tackle the real-world problem of the high computa
 
 ### Circuit Diagram
 <p align="center">
-<img src="Circuit.png" width="329" height="356.875">
-Each microphone uses this circuit
+<img src="Circuit.png">
+<p> Each microphone uses this circuit </p>
 </p>
+
 ## Software Features
