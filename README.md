@@ -28,6 +28,8 @@ An embedded systems project to tackle the real-world problem of the high computa
     - UART
 
 ### Circuit Diagram
-
-
+<p align="center">
+<img src="Circuit.png" width="329" height="356.875">
+Each microphone uses this circuit
+</p>
 ## Software Features
