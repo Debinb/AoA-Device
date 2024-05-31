@@ -30,7 +30,7 @@ An embedded systems project to tackle the real-world problem of the high computa
 ### Circuit Diagram
 <p align="center">
 <img src="Circuit.png">
-<p> Each microphone uses this circuit </p>
+<p align="center"> Each microphone utilizes this circuit </p>
 </p>
 
 ## Software Features
