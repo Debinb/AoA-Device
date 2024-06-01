@@ -2,7 +2,7 @@
 An embedded systems project to tackle the real-world problem of the high computational power requirement of AoA (Angle of Arrival) devices using the TM123GH6PM microcontroller under low power and low cost. 
 
 <p align="center">
-<img src="/workspaces/AoA-Device/Images/AoAdevice.png" width="329" height="356.875">
+<img src="Images/AoAdevice.png" width="329" height="356.875">
 </p>
 
 ## Hardware Features
@@ -29,7 +29,7 @@ An embedded systems project to tackle the real-world problem of the high computa
 
 ### Circuit Diagram
 <p align="center">
-<img src="/workspaces/AoA-Device/Images/Circuit.png">
+<img src="Images/Circuit.png">
 <p align="center"> Each microphone utilizes this circuit </p>
 </p>
 
