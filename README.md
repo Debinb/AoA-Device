@@ -20,7 +20,7 @@ An embedded systems project to tackle the real-world problem of the high computa
     | 1μF capacitor  | 4 |
     | 10μF capacitor | 1 |
 -  
-    |   Peripherals          |
+    |   Peripherals    used     |
     | --------------------------|
     | ADC0 (Sequence Sampler)   |
     | ADC1 (Digital Comparator) |
