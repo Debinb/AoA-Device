@@ -19,13 +19,15 @@ An embedded systems project to tackle the real-world problem of the high computa
     | 0.1μF capacitor| 2 |
     | 1μF capacitor  | 4 |
     | 10μF capacitor | 1 |
-- Peripherals used: 
-    - ADC0 (Sequence Sampler)
-    - ADC1 (Digital Comparator)
-    - Timers
-    - NVIC
-    - DMA
-    - UART
+-  
+    |   Peripherals          |
+    | --------------------------|
+    | ADC0 (Sequence Sampler)   |
+    | ADC1 (Digital Comparator) |
+    | Timers                    |
+    | NVIC                      |
+    | DMA                       |
+    | UART                      |
 
 ### Circuit Diagram
 <p align="center">
