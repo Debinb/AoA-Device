@@ -36,3 +36,10 @@ An embedded systems project to tackle the real-world problem of the high computa
 </p>
 
 ## Software Features
+Using UART, these commands can be given as input to the microcontroller.
+- `reset`: This command sends a request to the M4F board to reset the hardware. The reset request is performed via `NVIC_APINT_SYSRESREQ`
+- `average`: Displays an average value of each microphone in DAC units.
+- `level`: Sets the threshold detection range for the digital comparator.
+- `aoa`: Displays the most current value of the Angle of Arrival of an event.
+- `aoa always`: Displays the Angle of Arrival every time an event is detected.
+- `tdoa`: Displays the Time Difference of Arrival information of the mics for an event.
