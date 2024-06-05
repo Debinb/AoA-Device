@@ -5,11 +5,11 @@ An embedded systems project to tackle the real-world problem of the high computa
 <img src="Images/AoAdevice.png" width="329" height="356.875">
 </p>
 
-## Hardware Features
-- ARM M4F based TM123GH6PM
-- Electronic components used:
+## Hardware Components
+  
     |   Components   |  Qty |
     | -------------- |:----:|
+     | TM123GH6PM Tiva Board | 1 |
     | LM2902 Op-amp  |  1 |
     |CMC-9745-44P Mic| 4 |
     | 2.2kΩ resistor | 4 |
@@ -19,7 +19,15 @@ An embedded systems project to tackle the real-world problem of the high computa
     | 0.1μF capacitor| 2 |
     | 1μF capacitor  | 4 |
     | 10μF capacitor | 1 |
--  
+
+### Circuit Diagram
+<p align="center">
+<img src="Images/Circuit.png">
+<p align="center"> Each microphone utilizes this circuit </p>
+</p>
+
+## Peripherals Used
+    
     |   Peripherals    used     |
     | --------------------------|
     | ADC0 (Sequence Sampler)   |
@@ -28,12 +36,6 @@ An embedded systems project to tackle the real-world problem of the high computa
     | NVIC                      |
     | DMA                       |
     | UART                      |
-
-### Circuit Diagram
-<p align="center">
-<img src="Images/Circuit.png">
-<p align="center"> Each microphone utilizes this circuit </p>
-</p>
 
 ## Software Features
 Using UART, these commands can be given as input to the microcontroller.
