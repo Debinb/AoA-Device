@@ -6,10 +6,9 @@ An embedded systems project to tackle the real-world problem of the high computa
 </p>
 
 ## Hardware Components
-  
     |   Components   |  Qty |
     | -------------- |:----:|
-     | TM123GH6PM Tiva Board | 1 |
+    | TM123GH6PM Tiva Board | 1 |
     | LM2902 Op-amp  |  1 |
     |CMC-9745-44P Mic| 4 |
     | 2.2kΩ resistor | 4 |
@@ -27,7 +26,6 @@ An embedded systems project to tackle the real-world problem of the high computa
 </p>
 
 ## Peripherals Used
-    
     |   Peripherals    used     |
     | --------------------------|
     | ADC0 (Sequence Sampler)   |
