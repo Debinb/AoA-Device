@@ -6,18 +6,18 @@ An embedded systems project to tackle the real-world problem of the high computa
 </p>
 
 ## Hardware Components
-    |   Components   |  Qty |
-    | -------------- |:----:|
-    | TM123GH6PM Tiva Board | 1 |
-    | LM2902 Op-amp  |  1 |
-    |CMC-9745-44P Mic| 4 |
-    | 2.2kΩ resistor | 4 |
-    | 1kΩ resistor   | 4 |
-    | 10kΩ resistor  | 4 | 
-    | 100kΩ resistor | 4 |
-    | 0.1μF capacitor| 2 |
-    | 1μF capacitor  | 4 |
-    | 10μF capacitor | 1 |
+|   Components   |  Qty |
+| -------------- |:----:|
+| TM123GH6PM Tiva Board | 1 |
+| LM2902 Op-amp  |  1 |
+|CMC-9745-44P Mic| 4 |
+| 2.2kΩ resistor | 4 |
+| 1kΩ resistor   | 4 |
+| 10kΩ resistor  | 4 | 
+| 100kΩ resistor | 4 |
+| 0.1μF capacitor| 2 |
+| 1μF capacitor  | 4 |
+| 10μF capacitor | 1 |
 
 ### Circuit Diagram
 <p align="center">
@@ -26,14 +26,14 @@ An embedded systems project to tackle the real-world problem of the high computa
 </p>
 
 ## Peripherals Used
-    |   Peripherals    used     |
-    | --------------------------|
-    | ADC0 (Sequence Sampler)   |
-    | ADC1 (Digital Comparator) |
-    | Timers                    |
-    | NVIC                      |
-    | DMA                       |
-    | UART                      |
+|   Peripherals    used     |
+| --------------------------|
+ | ADC0 (Sequence Sampler)   |
+ | ADC1 (Digital Comparator) |
+ | Timers                    |
+ | NVIC                      |
+  | DMA                       |
+  | UART                      |
 
 ## Software Features
 Using UART, these commands can be given as input to the microcontroller.
